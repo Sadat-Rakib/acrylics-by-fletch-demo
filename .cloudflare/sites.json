@@ -1,6 +1,6 @@
 [
   {
-    "project": "acrylics-by-fletch",
+    "project": "acrylics-by-fletch-website",
     "source": ".",
     "worker": false,
     "files": [
